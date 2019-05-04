@@ -1,0 +1,28 @@
+.body{
+    background-image: url("background.png");
+}
+
+
+.crystal-button{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 30;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#button-red{
+    background-color:red;
+    background-image: url('/assets/images/red.png');
+}
+#button-yellow{
+    background-color: yellow;
+}
+#button-blue{
+    background-color: blue;
+}
+#button-green{
+    background-color: green;
+}
